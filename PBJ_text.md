@@ -5,15 +5,16 @@
 
 A peanut butter and jelly sandwich is the quintessential, love it or hate it staple of American childhood lunches. It is a culture icon. But where did it come from, and what is it really?
 In 1901, Julia Davis Chandler wrote in [**The Boston Cooking School Magazine of Culinary Science and Domestic Economics:**](https://babel.hathitrust.org/cgi/pt?id=mdp.39015036669904&view=1up&seq=200&q1=peanut) 
->"For variety, some day try making little sandwiches, or bread fingers, of three very thin layers of bread and two of fill- ing, one of peanut; paste, whatever brand you prefer, and currant or crab-apple jelly for the other. The combination is delicious, and, so far as I know, original."
+>![Sliced "For variety, some day try making little sandwiches, or bread fingers, of three very thin layers of bread and two of fill- ing, one of peanut; paste, whatever brand you prefer, and currant or crab-apple jelly for the other. The combination is delicious, and, so far as I know, original."
 
 
 ***********
 ## Ingredients
 ***********
 
-### Sliced bread.
-Attribution: "Sliced fresh bread" available at https://foto.wuestenigel.com/sliced-fresh-bread/ by Marco Verch
+![Sliced bread](media/bread.jpg)
+
+Attribution: ["Sliced fresh bread"](https://foto.wuestenigel.com/sliced-fresh-bread/) by Marco Verch
 licensed under CC by 2.0, https://creativecommons.org/licenses/by/2.0/
 
 ### Peanut butter.
@@ -37,8 +38,9 @@ My favorite types of bread are itemized this un-ordered list:
 - bagels, particularly
 
   - everything bagels
-  - sesame seed bagels
+  * sesame seed bagels
   - blueberry bagels
+  - more ideas 
 
 ---
 
