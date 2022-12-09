@@ -76,7 +76,7 @@ Popularity of various jellies and jelly alternatives:
 
 ## Assembly
 
-Video of Joy making a sandwich
+!?[Video of Joy making a sandwich](media/sandwich_creation.mp4)
 
 ## Consumption
 What are the instructions for eating a peanut butter and jelly sandwich?
