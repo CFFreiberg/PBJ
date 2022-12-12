@@ -1,35 +1,34 @@
-***********
+
 # Peanut Butter and Jelly, an Overview and such and such
 
-***********
-
 A peanut butter and jelly sandwich is the quintessential, love it or hate it staple of American childhood lunches. It is a culture icon. But where did it come from, and what is it really?
-In 1901, Julia Davis Chandler wrote in [**The Boston Cooking School Magazine of Culinary Science and Domestic Economics:**](https://babel.hathitrust.org/cgi/pt?id=mdp.39015036669904&view=1up&seq=200&q1=peanut) 
->![Sliced "For variety, some day try making little sandwiches, or bread fingers, of three very thin layers of bread and two of fill- ing, one of peanut; paste, whatever brand you prefer, and currant or crab-apple jelly for the other. The combination is delicious, and, so far as I know, original."
+In 1901, _Julia Davis Chandler_ wrote in [**The Boston Cooking School Magazine of Culinary Science and Domestic Economics:**](https://babel.hathitrust.org/cgi/pt?id=mdp.39015036669904&view=1up&seq=200&q1=peanut) 
+>Sliced "For variety, some day try making little sandwiches, or bread fingers, of three very thin layers of bread and two of fill- ing, one of peanut; paste, whatever brand you prefer, and currant or crab-apple jelly for the other. The combination is delicious, and, so far as I know, original."
 
 
-***********
+
 ## Ingredients
-***********
+
 
 ![Sliced bread](media/bread.jpg)
 
 Attribution: ["Sliced fresh bread"](https://foto.wuestenigel.com/sliced-fresh-bread/) by Marco Verch
-licensed under CC by 2.0, https://creativecommons.org/licenses/by/2.0/
+licensed under [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 ### Peanut butter.
-Attribution: "Peanut Butter" available at https://www.flickr.com/photos/niaid/25419964715 by NIAID
-licensed under CC by 2.0 https://creativecommons.org/licenses/by/2.0/
+![Peanut butter](media/peanut_butter.jpg)
+
+Attribution: ["Peanut Butter"](https://www.flickr.com/photos/niaid/25419964715) by NIAID
+licensed under [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 ### Jars of jam.
-Attribution: "Raspberry jam - still hot" https://www.flickr.com/photos/conall/24046385922/in/photolist-CCU1LJ-8AyPst-2mFmqg3-fsiV4F-2jL9aGz-XKqoJw-2VKzN-2gQqWcy-a71jK9-2nCUjFF-4Tapdw-27Qj8RB-8yYG8J-5XZc81-duKBoj-w8Nwp4-2mWqtuD-2n7WTA2-ayhT1s-2kKqcSY-X1ZXm2-5rWzz4-8wv9CS-9TRsaq-eytHjL-2MDgvM-6TTPiH-7CNZBz-aY1p8B-ciXQcu-niMrx1-cEdCMd-59iDGa-8MK4GE-hUn5n-cD9izo-9nkZkV-wGxAHe-bijv2z-2icnYUX-a4jzDp-3q5uM-ofgwpK-QsQYew-MBvta-21s9gjs-6ydy2q-9mi9VX-2VKvv-ousDw3 by Conall
-licensed under CC by 2.0 https://creativecommons.org/licenses/by/2.0/
+![Jars of jam](media/jelly.jpg)
+
+Attribution: ["Raspberry jam - still hot"](https://www.flickr.com/photos/conall/24046385922/in/photolist-CCU1LJ-8AyPst-2mFmqg3-fsiV4F-2jL9aGz-XKqoJw-2VKzN-2gQqWcy-a71jK9-2nCUjFF-4Tapdw-27Qj8RB-8yYG8J-5XZc81-duKBoj-w8Nwp4-2mWqtuD-2n7WTA2-ayhT1s-2kKqcSY-X1ZXm2-5rWzz4-8wv9CS-9TRsaq-eytHjL-2MDgvM-6TTPiH-7CNZBz-aY1p8B-ciXQcu-niMrx1-cEdCMd-59iDGa-8MK4GE-hUn5n-cD9izo-9nkZkV-wGxAHe-bijv2z-2icnYUX-a4jzDp-3q5uM-ofgwpK-QsQYew-MBvta-21s9gjs-6ydy2q-9mi9VX-2VKvv-ousDw3) by Conall
+licensed under [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 
-***********
-Breads
-***********
-
+#### Breads.
 My favorite types of bread are itemized this un-ordered list:
 
 - whole wheat bread
