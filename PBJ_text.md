@@ -39,7 +39,7 @@ My favorite types of bread are itemized this un-ordered list:
   - everything bagels
   * sesame seed bagels
   - blueberry bagels
-  - more ideas 
+    - more ideas 
 
 ---
 
