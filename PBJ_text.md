@@ -58,11 +58,11 @@ Peanut butter is not the only type of "butter" you can use:
 | | | |
 |-|-|-|
 |Peanut Butter: |Traditional, but peanuts are a common allergy.|
-Sunflower Seed Butter:  |Nut-free butter avoids most allergies.
-Cashew Butter: Cashew butter is more expensive than peanut butter, but cashews can also be more delicious than peanuts.
-Almond Butter: Traditional, but peanuts are a common allergy.
-Hazelnut and Chocolate Butter:  Nutella can be used instead of or in addition to the traditional peanut butter.
-Butter: Toast with butter and jam is a warm, deconstructed PBJ sandwich with dairy substituted for peanuts.
+Sunflower Seed Butter:| Nut-free butter avoids most allergies.|
+Cashew Butter:| Cashew butter is more expensive than peanut butter, but cashews can also be more delicious than peanuts.|
+Almond Butter: |Traditional, but peanuts are a common allergy.
+Hazelnut and Chocolate Butter: | Nutella can be used instead of or in addition to the traditional peanut butter.
+Butter: |Toast with butter and jam is a warm, deconstructed PBJ sandwich with dairy substituted for peanuts.
 
 ***********
 Jelly and Jelly Alternatives
