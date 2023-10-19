@@ -15,7 +15,8 @@ In 1901, _Julia Davis Chandler_ wrote in [**The Boston Cooking School Magazine o
 Attribution: ["Sliced fresh bread"](https://foto.wuestenigel.com/sliced-fresh-bread/) by Marco Verch
 licensed under [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)
 
-### Peanut butter.
+### Peanut butter. An overview
+
 ![Peanut butter](media/peanut_butter.jpg)
 
 Attribution: ["Peanut Butter"](https://www.flickr.com/photos/niaid/25419964715) by NIAID
