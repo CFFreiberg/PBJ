@@ -109,6 +109,7 @@ What do you need to create traditional a peanut butter and jelly sandwich? Check
 [[X]]Peanut Butter
 [[ ]]Lettuce
 [[X]]Jelly
+[[]] Nichts
 [[?]] Hint: You can choose more than one correct answer!
 ***
 
